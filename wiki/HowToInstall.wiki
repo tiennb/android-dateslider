@@ -59,15 +59,15 @@ As already said, it is very similar to the DatePicker. The main difference is th
 
 == Requirements ==
 
-To make this example work you need the following files from the src/ folder:
-  * DateSlider.java
-  * ScrollLayout.java
-  * TimeView.java
-  * DefaultViewer.java
+To make this example work you need the following files from the `src/` folder:
+  * `DateSlider.java`
+  * `ScrollLayout.java`
+  * `TimeView.java`
+  * `DefaultViewer.java`
 
-and those from the res/ folder:
-  * slider_nosnap.png
-  * dateslider.xml
-  * dialogtitle.xml
-  * simplemain.xml
-  * scroller.xml
+and those from the `res/` folder:
+  * `slider_nosnap.png`
+  * `dateslider.xml`
+  * `dialogtitle.xml`
+  * `simplemain.xml`
+  * `scroller.xml`
