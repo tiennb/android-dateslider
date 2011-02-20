@@ -1,5 +1,5 @@
+#summary a list of all the Datesliders available in the package
 #labels Featured
-#A list of all the DateSliders available in the pacakge
 
 = Available Datesliders  =
 
