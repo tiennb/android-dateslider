@@ -1,5 +1,5 @@
+#summary Installation advice
 #labels Featured
-#Installation advice
 
 =Installation=
 
