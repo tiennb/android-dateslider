@@ -74,7 +74,7 @@ and those from the `res/` folder:
 
 == Important Note ==
 
-There is a bug in the Android tools (http://code.google.com/p/android/issues/detail?id=9656). The problem is that if you declare a styleable in a library project, you cannot refer to those custom xml attributes from your main project until the Android folks fix the tools. The workaround is to copy the <declare-styleable> block from DateSlider's attrs.xml into an attrs.xml in your main application project.
+There is a bug in the Android tools (http://code.google.com/p/android/issues/detail?id=9656). The problem is that if you declare a styleable in a library project, you cannot refer to those custom xml attributes from your main project until the Android folks fix the tools. The workaround is to copy the {{{<declare-styleable>}}} block from DateSlider's attrs.xml into an attrs.xml in your main application project.
 
 That should get it building 
 
